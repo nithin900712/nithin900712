@@ -1,35 +1,26 @@
 ## Hi there <img width="28px" alt="Hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
-Ramki R, I'm a Machine Learning/Deep Learning Enthusiast!! I spend quality time on coding and building end to end data science/machine learning pipelines with a passion for leveraging machine learning to drive impactful applications and create value.
+Hi I'm Nithin Varadharajan, I'm a Machine Learning/Software Engineering Enthusiast!! I spend quality time on coding and building end to end data science/machine learning pipelines with a passion for leveraging machine learning to drive impactful applications and create value.
 
 <img align="right" alt="GIF" src="datascienctist.gif" width="340" height="250" />
 
-
-- 🔭 Currently Studying Masters in Intelligent Systems Engineering at **<a href="https://luddy.indiana.edu/">Indiana University</a>**.
-  
-- 🌱 Passionate about Machine Learning/Deep Learning. **"Never Settle Down"**
-  
-- 👯 I write articles on **<a href="https://medium.com/@rr9876039">Medium</a>** aiming to explain the concepts in layman terms.
-  
-- 🥅 **2023 Goals:** 
-  - Practice LeetCodes
-  - Learn about statistical concepts in-depth.
-  - Learn end-to-end Data Science/Machine Learning Workflow with model deployment and monitoring. 
-  - Learn 
+- 🔭 Just Graduated from my Masters in Computer Science at **<a href="https://luddy.indiana.edu/">Indiana University</a>**.
+- 🌱 Passionate about Machine Learning/Software Engineering. **"Never Settle Down"**
+- 👯 I write articles on **<a href="https://medium.com/@nithinavarad">Medium</a>** aiming to explain the concepts in layman terms.
+- 🥅 **2023 Goals:**
+  - Practice LeetCode
+  - Learn about statistical machine learning concepts in-depth.
+  - Learn end-to-end Data Science/Machine Learning Workflow with model deployment and monitoring.
+  - Implement software solutions
   - Get better at solving problems.
-
 
 <br />
 
-* * *
-
-
+---
 
 ### **Languages**:
 
 [<img align="left" alt="Python" width="35px" src="python.png" />](https://docs.python.org/3/)
-
-[<img align="left" alt="R" width="35px" src="r.png" />](https://www.r-project.org/about.html)
 
 </br>
 
@@ -51,49 +42,59 @@ Ramki R, I'm a Machine Learning/Deep Learning Enthusiast!! I spend quality time 
 
 </br>
 
-### **BI Tools**:
+### **Frameworks**:
 
-[<img align="left" alt="Tableau" width="35px" src="tableau1.png" />](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=IND&kw=tableau&adgroup=CTX-Brand+Priority-Core-EN-E&adused=484165494676&matchtype=e&placement=&gclsrc=aw.ds&&gclid=EAIaIQobChMIos-i5Zin7gIVliQrCh0BuQDZEAAYASAAEgITMvD_BwE)
+[<img align="left" alt="React" width="35px" src="react.png" />](https://react.dev/)
 
-[<img align="left" alt="PowerBI" width="35px" src="PowerBI.png" />](https://powerbi.microsoft.com/en-us/)
+[<img align="left" alt="Node" width="35px" src="node.png" />](https://nodejs.org/)
+
+[<img align="left" alt="PyTorch" width="35px" src="pytorch.png" />](https://pytorch.org/)
+
+<!-- [<img align="left" alt="Tableau" width="35px" src="tableau1.png" />](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=IND&kw=tableau&adgroup=CTX-Brand+Priority-Core-EN-E&adused=484165494676&matchtype=e&placement=&gclsrc=aw.ds&&gclid=EAIaIQobChMIos-i5Zin7gIVliQrCh0BuQDZEAAYASAAEgITMvD_BwE)
+
+[<img align="left" alt="PowerBI" width="35px" src="PowerBI.png" />](https://powerbi.microsoft.com/en-us/) -->
 
 </br>
 
 ### **Cloud Platforms**:
 
-[<img align="left" alt="AWS" width="35px" src="aws.jpeg" />](https://aws.amazon.com/free/?trk=ps_a134p000003yhlXAAQ&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_IN&sc_publisher=google&sc_category=core-main&sc_country=IN&sc_geo=APAC&sc_outcome=Acquisition&sc_detail=aws&sc_content=Brand_Core_aws_e&sc_matchtype=e&sc_segment=453325184782&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&ef_id=CjwKCAiA9vOABhBfEiwATCi7GGqUPXvbfEPvkKnmRUOw0n8p-rVIgAse793IAw-LS7yNOgvcf3gdsRoCm4kQAvD_BwE:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc)
+<!-- [<img align="left" alt="AWS" width="35px" src="aws.jpeg" />](https://aws.amazon.com/free/?trk=ps_a134p000003yhlXAAQ&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_IN&sc_publisher=google&sc_category=core-main&sc_country=IN&sc_geo=APAC&sc_outcome=Acquisition&sc_detail=aws&sc_content=Brand_Core_aws_e&sc_matchtype=e&sc_segment=453325184782&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&ef_id=CjwKCAiA9vOABhBfEiwATCi7GGqUPXvbfEPvkKnmRUOw0n8p-rVIgAse793IAw-LS7yNOgvcf3gdsRoCm4kQAvD_BwE:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) -->
+
+[<img align="left" alt="Azure" width="35px" src="azure.jpg" />](https://azure.microsoft.com/)
 
 </br>
 
 ### **Skills**:
-- *Machine Learning*
-- *Deep Learning*
-- *NLP*
+
+- _Machine Learning_
+- _Software Engineering_
+- _Networking and Cybersecurity_
 
 </br>
 
-
-* * *
+---
 
 # **Checkout recent post from me on medium**
 
 ** Currently In Progress.**
-<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan.singh282/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan-singh282/0" alt="Recent Article 0"> 
+
+<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan.singh282/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan-singh282/0" alt="Recent Article 0">
 </br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan.singh282/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan-singh282/1" alt="Recent Article 1">
 </br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan.singh282/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhigyan-singh282/2" alt="Recent Article 2">
 </br> -->
-**<a href="https://medium.com/@rr9876039">For More</a>**
+
+**<a href="https://medium.com/@nithinavarad">For More</a>**
 
 <br />
 
-* * *
+---
 
 ### **Connect With Me**:
 
-[<img align="left" alt="GMail" width="35px" src="gmail.png" />](rr9876039@gmail.com)
+[<img align="left" alt="GMail" width="35px" src="gmail.png" />](nithinavarad@gmail.com)
 
-[<img align="left" alt="LinkedIn" width="35px" src="linkedin.png" />](https://www.linkedin.com/in/ramki-r-086140228/)
+[<img align="left" alt="LinkedIn" width="35px" src="linkedin.png" />](https://www.linkedin.com/in/nithin-varadharajan-3ba1b1a4/)
 
-[<img align="left" alt="Medium" width="35px" src="1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@rr9876039)
+[<img align="left" alt="Medium" width="35px" src="1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@nithinavarad)
